@@ -1,0 +1,9 @@
+This Project contains three files, named 'command.py','articletext.py' and 'gethtml.py'
+
+
+'gethtml.py' is the python file we built for getting html text from the webpage of New York Times
+
+'articletext.py' is the python file we built for getting article text and
+key words of the article. 
+
+'command.py' is the python file for final operation. Just type a link from New York Times, and it will return the whole article from the URL and its top 30 words with high ouucrance frequency
